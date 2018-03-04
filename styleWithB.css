@@ -1,0 +1,62 @@
+.section-title {
+  font-size: 33px;
+  font-weight: bold;
+}
+
+.image-title {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.sub-title {
+  font-size: 18px;
+  font-style: italic;
+  color: grey;
+}
+
+.margin-40-top {
+  margin-top: 40px;
+}
+
+.margin-40-bottom {
+  margin-bottom: 40px;
+}
+
+.no-border {
+  border: none;
+}
+
+.font-normal {
+  font-style: normal;
+}
+
+.xs-image {
+  width: 150px;
+}
+
+.description-team {
+  padding: 0 60px;
+
+}
+
+footer.container {
+  margin-top: 100px;
+}
+
+@media (min-width: 768px) {
+
+  .description-team {
+    width: 75%;
+    padding: 0 0;
+    margin: 0 auto;
+  }
+
+}
+
+@media (min-width: 992px) {
+
+  .xs-image {
+    width: 220px;
+  }
+
+}
