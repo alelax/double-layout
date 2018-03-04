@@ -1,3 +1,7 @@
+body {
+  background-color: #F8F9FA;
+}
+
 .section-title {
   font-size: 33px;
   font-weight: bold;
@@ -7,6 +11,7 @@
   font-size: 28px;
   font-weight: bold;
 }
+
 
 .sub-title {
   font-size: 18px;
@@ -24,6 +29,10 @@
 
 .no-border {
   border: none;
+}
+
+.no-padding {
+  padding: 0;
 }
 
 .font-normal {

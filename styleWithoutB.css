@@ -5,6 +5,9 @@
   text-align: center;
 }
 
+body {
+  background-color: #F8F9FA;
+}
 .container {
   margin-right: auto;
   margin-left: auto;
